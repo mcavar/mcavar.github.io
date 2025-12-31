@@ -15,9 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Malgosia Cavar</h2>
 		</header>
-		<p>
-		Associate Professor (Dept. of Linguistics; Slavic Department), Indiana University
-		</p>
+		<p>Associate Professor (Dept. of Linguistics; Slavic Department), Indiana University</p>
 	</div>
 
 </section>
@@ -32,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Publications</h3>
 				</header>
-				<p>Publications and conference posters in theoretical and laboratory phonology, and in corpus linguistics and NLP</p>
+				<p>Publications and conference posters in theoretical and laboratory phonology, and in corpus linguistics and Natural Language Processing (NLP)</p>
 				<ul class="actions">
 					<li><a href="publications.html" class="button">Learn more</a></li>
 				</ul>
@@ -74,7 +72,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>About me</h2>
@@ -86,6 +84,6 @@ nav-menu: true
 			<li><a href="elements.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section -->
 
 </div>

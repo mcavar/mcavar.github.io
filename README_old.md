@@ -1,3 +1,0 @@
-# Malgosia Cavar's Homepage
-
-
