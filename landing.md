@@ -25,14 +25,14 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/bookshelf.jpeg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/bookshelf.jpeg %}" alt="Bookshelf with academic publications" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Publications</h3>
 				</header>
-				<p>Publications nd conference posters in theoretical and laboratory phonology, and in corpus linguistics and NLP</p>
+				<p>Publications and conference posters in theoretical and laboratory phonology, and in corpus linguistics and NLP</p>
 				<ul class="actions">
 					<li><a href="publications.html" class="button">Learn more</a></li>
 				</ul>
@@ -41,7 +41,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/rosettaceiling.jpeg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/rosettaceiling.jpeg %}" alt="Ceiling decoration" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -57,7 +57,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/gardenroseswhitebrown.jpeg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/gardenroseswhitebrown.jpeg %}" alt="Garden roses" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -79,7 +79,7 @@ nav-menu: true
 		<header class="major">
 			<h2>About me</h2>
 		</header>
-		<p>I am an associate professor at Indiana University, with a joint appointment in the Department of Linguistics and the Slavic Deprtment. I specialize in phonology and I am interested in both theoretical and laboratory phonology, second language phonology, aspects of heritage language, and forensic linguistics. In the last years I have concentrated on studies of speech using 2D or 3D ultrasound imaging.
+		<p>I am an associate professor at Indiana University, with a joint appointment in the Department of Linguistics and the Slavic Department. I specialize in phonology and I am interested in both theoretical and laboratory phonology, second language phonology, aspects of heritage language, and forensic linguistics. In the last years I have concentrated on studies of speech using 2D or 3D ultrasound imaging.
 
 		Born in Warsaw, Poland, I have graduated with an MA in English from the University of Warsaw. I hold a PhD in Linguistics from the University of Potsdam, Germany. Since 2013, I have worked at Indiana University. I live in Bloomington, Indiana.</p>
 		<ul class="actions">
