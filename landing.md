@@ -71,19 +71,4 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
-<!-- section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>About me</h2>
-		</header>
-		<p>I am an associate professor at Indiana University, with a joint appointment in the Department of Linguistics and the Slavic Department. I specialize in phonology and I am interested in both theoretical and laboratory phonology, second language phonology, aspects of heritage language, and forensic linguistics. In the last years I have concentrated on studies of speech using 2D or 3D ultrasound imaging.
-
-		Born in Warsaw, Poland, I graduated with an MA in English from the University of Warsaw. I hold a PhD in Linguistics from the University of Potsdam, Germany. Since 2013, I have worked at Indiana University. I live in Bloomington, Indiana.</p>
-		<ul class="actions">
-			<li><a href="elements.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section -->
-
 </div>
